@@ -1,0 +1,148 @@
+{
+  "standards": [
+    {
+      "key": "KS_9832_9835",
+      "aliases": ["KS C 9832 KS C 9835", "KS C 9832, KS C 9835"],
+      "functions": ["CE", "ISN", "CDVE", "OUTCDVE", "RE", "GH", "ESD", "RS", "EFT", "SURGE", "CS", "MF", "DIP"],
+      "data_suffixes": ["ESD_ENCLOSURE", "RS_ENCLOSURE", "RS_AUDIO", "RS_TEL", "RS_FREQUENCY", "EFT_AC", "EFT_DC", "EFT_SIGNAL", "SURGE_AC", "SURGE_DC", "SURGE_SIGNAL", "CS_AC", "CS_DC", "CS_SIGNAL", "CS_AUDIO", "CS_TEL", "CS_FREQUENCY", "MF_ENCLOSURE", "DIP_AC"]
+    },
+    {
+      "key": "KS_9814",
+      "aliases": ["KS C 9814-1 KS C 9814-2", "KS C 9814-1, KS C 9814-2", "KS C 9814-1"],
+      "functions": ["CE", "ISN", "AECE", "CLICK", "DP", "LOOP", "RE", "GH", "ESD", "RS", "EFT", "SURGE", "CS", "DIP"],
+      "data_suffixes": ["ESD_ENCLOSURE", "RS_ENCLOSURE", "EFT_AC", "EFT_DC", "EFT_SIGNAL", "SURGE_AC", "SURGE_SIGNAL", "CS_AC", "CS_DC", "CS_SIGNAL", "DIP_AC"]
+    },
+    {
+      "key": "KS_X3143_9814",
+      "aliases": ["KS X 3143 KS C 9814-2", "KS X 3143, KS C 9814-2"],
+      "functions": ["CE", "ISN", "AECE", "LOOP", "RE", "ESD", "RS", "EFT", "SURGE", "CS", "DIP"],
+      "data_suffixes": ["ESD_ENCLOSURE", "RS_ENCLOSURE", "EFT_AC", "EFT_DC", "EFT_SIGNAL", "SURGE_AC", "SURGE_SIGNAL", "CS_AC", "CS_DC", "CS_SIGNAL", "DIP_AC"]
+    },
+    {
+      "key": "KS_X3124",
+      "aliases": ["KS X 3124", "KS X 3124 KS X NEW", "KS X 3124, KS X NEW", "KS X 3124 KS X 3125", "KS X 3124, KS X 3125", "KS X 3124 KS X 3126", "KS X 3124, KS X 3126", "KS X 3124 KS X 3129", "KS X 3124, KS X 3129", "KS X 3124 KS X 3125 KS X 3126", "KS X 3124, KS X 3125, KS X 3126", "KS X 3124 KS X 3125 KS X 3129", "KS X 3124, KS X 3125, KS X 3129", "KS X 3124 KS X 3126 KS X 3129", "KS X 3124, KS X 3126, KS X 3129", "KS X 3124 3125 3126 3129", "KS X 3124, 3125, 3126, 3129", "KS X 3124 KS X 3125 KS X 3126 KS X 3129", "KS X 3124, KS X 3125, KS X 3126, KS X 3129"],
+      "functions": ["CE", "ISN", "RE", "GH", "ESD", "RS", "EFT", "SURGE", "CS", "DIP", "CTI"],
+      "data_suffixes": ["ESD_ENCLOSURE", "RS_ENCLOSURE", "EFT_AC", "EFT_DC", "EFT_SIGNAL", "CTI_DC", "SURGE_AC", "SURGE_DC", "SURGE_SIGNAL", "CS_AC", "CS_DC", "CS_SIGNAL", "DIP_AC"]
+    },
+    {
+      "key": "KS_60255",
+      "aliases": ["KS C IEC 60255-26", "KS C IEC 60255-26, KS C IEC 60255-1", "KS C IEC 60255-26 KS C IEC 60255-1"],
+      "functions": ["CE", "RE", "GH", "ESD", "RS", "EFT", "DOW", "SURGE", "CS", "LCS", "MF", "DIP", "RIPPLE", "GSS"],
+      "data_suffixes": ["ESD_ENCLOSURE", "RS_RANGE1", "RS_RANGE2", "RS_SPOT", "EFT_AC", "EFT_TEL", "EFT_IO", "EFT_PE", "DOW_AC", "DOW_TEL", "DOW_IO", "SURGE_AC", "SURGE_TEL", "SURGE_IO", "CS_AC", "CS_ACSPOT", "CS_TEL", "CS_TELSPOT", "CS_IO", "CS_IOSPOT", "CS_PE", "CS_PESPOT", "LCS_IO", "MF_30", "MF_300", "DIP_AC", "DIP_DC", "RIPPLE_MAINS", "GSS_MAINS"]
+    },
+    {
+      "key": "KS_9610_6_4",
+      "aliases": ["KS C 9610-6-4, KS C 9610-6-2", "KS C 9610-6-4 KS C 9610-6-2"],
+      "functions": ["CE", "ISN", "RE", "GH", "ESD", "RS", "EFT", "SURGE", "CS", "MF", "DIP"],
+      "data_suffixes": ["ESD_ENCLOSURE", "RS_ENCLOSURE", "EFT_AC", "EFT_DC", "EFT_SIGNAL", "SURGE_AC", "SURGE_DC", "SURGE_SIGNAL", "CS_AC", "CS_DC", "CS_SIGNAL", "MF_ENCLOSURE", "DIP_AC"]
+    },
+    {
+      "key": "KS_9610_6_3",
+      "aliases": ["KS C 9610-6-3, KS C 9610-6-1", "KS C 9610-6-3 KS C 9610-6-1"],
+      "functions": ["CE", "ISN", "CLICK", "RE", "GH", "ESD", "RS", "EFT", "SURGE", "CS", "MF", "DIP"],
+      "data_suffixes": ["ESD_ENCLOSURE", "RS_ENCLOSURE", "EFT_AC", "EFT_DC", "EFT_SIGNAL", "SURGE_AC", "SURGE_DC", "SURGE_SIGNAL", "CS_AC", "CS_DC", "CS_SIGNAL", "MF_ENCLOSURE", "DIP_AC"]
+    },
+    {
+      "key": "KS_9815_9547",
+      "aliases": ["KS C 9815, KS C 9547", "KS C 9815 KS C 9547"],
+      "functions": ["CE", "ISN", "LOOP", "RE", "ESD", "RS", "EFT", "SURGE", "CS", "MF", "DIP"],
+      "data_suffixes": ["ESD_ENCLOSURE", "RS_ENCLOSURE", "EFT_AC", "EFT_DC", "EFT_SIGNAL", "SURGE_AC", "CS_AC", "CS_DC", "CS_SIGNAL", "MF_ENCLOSURE", "DIP_AC"]
+    },
+    {
+      "key": "KS_9992",
+      "aliases": ["KS C 9992"],
+      "functions": ["CE", "RE", "ESD", "RS", "EFT", "SURGE", "CS", "MF"],
+      "data_suffixes": ["ESD_ENCLOSURE", "RS_ENCLOSURE", "EFT_AC", "EFT_DC", "EFT_SIGNAL", "SURGE_AC", "SURGE_DC", "SURGE_SIGNAL", "CS_AC", "CS_DC", "CS_SIGNAL", "MF_ENCLOSURE"]
+    },
+    {
+      "key": "KS_8102",
+      "aliases": ["KS B ISO 8102-1 KS B ISO 8102-2", "KS B ISO 8102-1, KS B ISO 8102-2", "KS B 6955, KS B 6945", "KS B 6955 KS B 6945"],
+      "functions": ["CE", "CLICK", "RE", "ESD", "RS", "EFT", "SURGE", "CS", "DIP"],
+      "data_suffixes": ["ESD_GENERAL", "ESD_SAFETY", "RS_GENERAL", "RS_SAFETY", "EFT_AC", "EFT_DC", "EFT_SIGNAL", "EFT_MONITOR", "EFT_AC_SAFETY", "EFT_DC_SAFETY", "EFT_SIGNAL_SAFETY", "EFT_MONITOR_SAFETY", "SURGE_AC", "SURGE_DC", "SURGE_MONITOR", "SURGE_AC_SAFETY", "SURGE_DC_SAFETY", "SURGE_SIGNAL_SAFETY", "SURGE_MONITOR_SAFETY", "CS_AC", "CS_DC", "CS_SIGNAL", "CS_MONITOR", "CS_AC_SAFETY", "CS_DC_SAFETY", "CS_SIGNAL_SAFETY", "CS_MONITOR_SAFETY", "DIP_AC_GENERAL", "DIP_AC_SAFETY"]
+    },
+    {
+      "key": "KS_3369",
+      "aliases": ["KS C 3369"],
+      "functions": ["EMF"],
+      "data_suffixes": ["EMF_ENCLOSURE"]
+    },
+    {
+      "key": "KS_60947_1",
+      "aliases": ["KS C IEC 60947-1"],
+      "functions": ["CE", "RE", "ESD", "RS", "EFT", "SURGE", "CS", "MF", "DIP"],
+      "data_suffixes": ["ESD_ENCLOSURE", "RS_ENCLOSURE", "EFT_AC", "EFT_DC", "EFT_SIGNAL", "SURGE_AC", "CS_AC", "CS_DC", "CS_SIGNAL", "MF_ENCLOSURE", "DIP_CLASS2", "DIP_CLASS3"]
+    },
+    {
+      "key": "KS_60947_4_1",
+      "aliases": ["KS C IEC 60947-4-1"],
+      "functions": ["CE", "RE", "ESD", "RS", "EFT", "SURGE", "CS"],
+      "data_suffixes": ["ESD_ENCLOSURE", "RS_ENCLOSURE", "EFT_AC", "EFT_SIGNAL", "SURGE_AC", "CS_AC", "CS_SIGNAL"]
+    },
+    {
+      "key": "KS_60947_2",
+      "aliases": ["KS C IEC 60947-2"],
+      "functions": ["CE", "RE", "ESD", "RS", "EFT", "SURGE", "CS"],
+      "data_suffixes": ["ESD_ENCLOSURE", "RS_ENCLOSURE", "EFT_AC", "EFT_DC", "EFT_SIGNAL", "SURGE_AC", "CS_AC", "CS_DC", "CS_SIGNAL", "PMV1_ESD", "PMV2_RS", "PMV1_EFT", "PMV1_SURGE", "PMV3_CS"]
+    },
+    {
+      "key": "KN_61131_2",
+      "aliases": ["KN 61131-2"],
+      "functions": ["CE", "ISN", "RE", "GH", "ESD", "RS", "EFT", "SURGE", "CS", "MF", "DIP", "DOW"],
+      "data_suffixes": ["ESD_ENCLOSURE", "RS_RANGE1", "RS_RANGE2", "EFT_AC", "EFT_DC", "EFT_COM", "EFT_DCIO", "EFT_DCR", "EFT_SHIELD", "EFT_ACIO", "EFT_ACR", "SURGE_AC", "SURGE_DC", "SURGE_COM", "SURGE_DCIO", "SURGE_DCR", "SURGE_SHIELD", "SURGE_ACIO", "SURGE_ACR", "CS_AC", "CS_DC", "CS_COM", "CS_DCIO", "CS_DCR", "CS_SHIELD", "CS_ACIO", "CS_ACR", "DIP_AC", "MF_ENCLOSURE", "DOW_AC", "DOW_DC", "DOW_COM", "DOW_DCIO", "DOW_ACIO", "DOW_SHIELD"]
+    },
+    {
+      "key": "KN_50_51",
+      "aliases": ["KN 50 KN 51", "KN 50 / KN 51"],
+      "functions": ["CE", "CLICK", "THD", "RE", "GH", "ESD", "RS", "EFT", "SURGE", "CS", "MF", "DOW"],
+      "data_suffixes": ["ESD_ENCLOSURE", "ESD_INDUSTRY", "RS_ENCLOSURE", "RS_INDUSTRY", "RS_RF", "EFT_BATT", "EFT_SIGNAL1", "EFT_IO", "EFT_DC", "EFT_AC", "EFT_PE1", "EFT_SIGNAL2", "EFT_CONTROL", "EFT_DCIO", "EFT_ACIO", "EFT_PE2", "SURGE_BATT", "SURGE_IO", "SURGE_DC", "SURGE_AC", "SURGE_CONTROL", "SURGE_DCIO", "SURGE_ACIO", "CS_BATT", "CS_SIGNAL1", "CS_IO", "CS_DC", "CS_AC", "CS_PE1", "CS_SIGNAL2", "CS_CONTROL", "CS_DCIO", "CS_ACIO", "CS_PE2", "MF_ENCLOSURE", "MF_INDUSTRY", "DOW_CONTROL"]
+    },
+    {
+      "key": "KS_9800_3",
+      "aliases": ["KS C 9800-3"],
+      "functions": ["CE", "ISN", "AECE", "RE", "HM", "FK", "ESD", "RS", "EFT", "SURGE", "CS", "DIP", "VV", "VU", "FV", "THD", "IH", "CN"],
+      "data_suffixes": ["ESD_ENCLOSURE", "RS_ENCLOSURE", "EFT_AC", "SURGE_AC", "CS_AC", "DIP_AC", "VV_AC", "VV_AC2", "VU_AC", "FV_AC", "THD_AC", "IH_AC", "CN_AC"]
+    },
+    {
+      "key": "EN_55032_55035",
+      "aliases": ["EN 55032 EN 55035", "EN 55032, EN 55035"],
+      "functions": ["CE", "ISN", "CDVE", "RE", "HM", "FK", "ESD", "RS", "EFT", "SURGE", "CS", "MF", "DIP"],
+      "data_suffixes": ["ESD_ENCLOSURE", "RS_ENCLOSURE", "RS_ACOUSTIC", "EFT_AC", "EFT_DC", "EFT_SIGNAL", "SURGE_AC", "SURGE_DC", "SURGE_SIGNAL", "CS_AC", "CS_DC", "CS_SIGNAL", "CS_ACOUSTIC", "MF_50", "MF_60", "DIP_50", "DIP_60"]
+    },
+    {
+      "key": "EN_301_489",
+      "aliases": ["EN 301 489-1", "EN 301 489-1, -3", "EN 301 489-1, -17", "EN 301 489-1, -19", "EN 301 489-1, -52", "EN 301 489-1, -3, -17", "EN 301 489-1, -3, -17, -19", "EN 301 489-1, -3, -17, -19, -52", "EN 301 489-1, -17, -52"],
+      "functions": ["CE", "ISN", "RE", "HM", "FK", "ESD", "RS", "EFT", "SURGE", "CS", "DIP", "CTI"],
+      "data_suffixes": ["ESD_ENCLOSURE", "RS_ENCLOSURE", "EFT_AC", "EFT_DC", "EFT_SIGNAL", "SURGE_AC", "SURGE_SIGNAL", "CS_AC", "CS_DC", "CS_SIGNAL", "DIP_50", "DIP_60", "CTI_DC"]
+    },
+    {
+      "key": "EN_55014",
+      "aliases": ["EN IEC 55014-1 EN IEC 55014-2", "EN IEC 55014-1, EN IEC 55014-2", "EN IEC 55014-1"],
+      "functions": ["CE", "ISN", "AECE", "CLICK", "DP", "LOOP", "RE", "HM", "FK", "ESD", "RS", "EFT", "SURGE", "CS", "DIP"],
+      "data_suffixes": ["ESD_ENCLOSURE", "RS_ENCLOSURE", "EFT_AC", "EFT_DC", "EFT_SIGNAL", "SURGE_AC", "SURGE_SIGNAL", "CS_AC", "CS_DC", "CS_SIGNAL", "DIP_50", "DIP_60"]
+    },
+    {
+      "key": "FCC_15B",
+      "aliases": ["FCC Part 15 Subpart B SDoC", "FCC Part 15 Subpart B CoC", "FCC Part 15 Subpart B SDoC, ICES-003", "FCC Part 15 Subpart B CoC, ICES-003"],
+      "functions": ["CE", "RE", "CDVE"],
+      "data_suffixes": []
+    },
+    {
+      "key": "VCCI",
+      "aliases": ["VCCI CISPR 32"],
+      "functions": ["CE", "ISN", "RE"],
+      "data_suffixes": []
+    },
+    {
+      "key": "Marine_DNVGL",
+      "aliases": ["Marine DNVGL"],
+      "functions": ["LCS", "EFT", "SURGE", "CS", "RS", "ESD", "RE", "CE"],
+      "data_suffixes": ["LCS_AC", "LCS_DC", "EFT_AC", "EFT_DC", "EFT_SIGNAL", "SURGE_AC", "SURGE_DC", "CS_AC", "CS_DC", "CS_SIGNAL", "RS_ENCLOSURE", "ESD_ENCLOSURE"]
+    },
+    {
+      "key": "EN_55011_60601",
+      "aliases": ["EN 55011 EN 60601-1-2", "EN 55011, EN 60601-1-2"],
+      "functions": [],
+      "data_suffixes": []
+    }
+  ]
+}

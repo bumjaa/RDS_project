@@ -1,0 +1,20 @@
+# Excel binary/temp files
+~$*.xls*
+*.tmp
+
+# VBA binary form data (regenerated from .frm)
+*.frx
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Credentials (never commit)
+config.json
+config.local.json
+*.secret
+
+# Build artifacts
+dist/
+build/

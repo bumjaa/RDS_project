@@ -1,0 +1,21 @@
+{
+  "version": "1.1.0",
+  "github": {
+    "repo": "bumjaa/RDS_project",
+    "version_url": "https://api.github.com/repos/bumjaa/RDS_project/contents/version.txt",
+    "release_url": "https://api.github.com/repos/bumjaa/RDS_project/releases/latest"
+  },
+  "api": {
+    "base_url": "https://script.google.com/macros/s/AKfycbzXJTQcdnj3dP-HrgPC69SVxyXWuReIM06PEY9wuaBuOprjYIU0ISSIHWvjcrW_1IgM/exec",
+    "instruments_url": "https://script.google.com/macros/s/AKfycbx1Nj1cy20dHTswXf5tj2HCJJ4EZVZZEDbGb-H-t5uhFXObzxPLKGQq0xJ-5Bviv0T1Bw/exec",
+    "usage_url": "https://script.google.com/macros/s/AKfycbwOlZwBd5H3wZLsyaE1dSXAtC1U5MGtJzR7yHjqhRHnnxt0PrGeVpgcWfHe3F2kEXN6SQ/exec",
+    "key": "YOUR_API_KEY_HERE"
+  },
+  "paths": {
+    "personal_db": "s:\\rdsDB\\personalDB.accdb",
+    "environment_data_dir": "U:\\EMC센터\\01. 공통관리\\01. 시험환경 환경\\07. 환경일 기록",
+    "original_copy": "U:\\EMC센터\\02. QC\\05. RDS 프로젝트\\RDSDB\\RDS_origianlCopy.xlsm",
+    "bas_dir": "U:\\EMC센터\\02. QC\\05. RDS 프로젝트\\RDSDB\\projectRDS_bas"
+  },
+  "github_token": "YOUR_GITHUB_TOKEN_HERE"
+}
